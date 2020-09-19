@@ -1,0 +1,9 @@
+{
+  "name": "todos",
+  "version": "1.0.0",
+  "description": "A todo application with nodejs + MongoDB",
+  "main": "index.js",
+  "repository": "git@github.com:crazygeeksdotnet/todos.git",
+  "author": "Vikash Pathak <vikashh.pathak@gmail.com>",
+  "license": "MIT"
+}
