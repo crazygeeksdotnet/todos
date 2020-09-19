@@ -39,6 +39,7 @@ const addTodo = (req, res) => __awaiter(void 0, void 0, void 0, function* () {
             .json({ message: "Todo added", todo: newTodo, todos: allTodos });
     }
     catch (error) {
+        console.log(error);
         throw error;
     }
 });

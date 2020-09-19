@@ -2,7 +2,8 @@
     "env": {
         "MONGO_USER": "root",
         "MONGO_PASSWORD": "root",
-        "MONGO_DB": "localhost",
-        "PORT":"27017"
+        "MONGO_DB": "todos",
+        "MONGO_HOST": "localhost:27017",
+        "PORT":"4000"
     }
 }
